@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+doc_inventory/__init__.py
+doc_inventory/inventory.py
+doc_inventory.egg-info/PKG-INFO
+doc_inventory.egg-info/SOURCES.txt
+doc_inventory.egg-info/dependency_links.txt
+doc_inventory.egg-info/requires.txt
+doc_inventory.egg-info/top_level.txt
+tests/test_inventory.py
